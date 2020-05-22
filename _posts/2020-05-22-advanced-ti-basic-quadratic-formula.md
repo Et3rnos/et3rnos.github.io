@@ -73,7 +73,7 @@ Output(6,12," "
 
 The last Output instructions limit the solution digits presented.
 
-![Inputs](/images/quadform2.png)
+![Inputs](/images/quadform3.png)
 
 To conclude, we should note that the previously used Disp “” instructions just tell the processor to print Done in a specific place in the screen.
 
