@@ -3,6 +3,8 @@ title: Advanced TI-BASIC Quadratic Formula
 tags: ti-basic ti-84 quadratic
 category: programming
 ---
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 One of the most useful programs you can have in your TI calculator is the Quadratic Formula.
 
@@ -112,6 +114,3 @@ End
 Output(5,12," "
 Output(6,12," "
 ```
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
