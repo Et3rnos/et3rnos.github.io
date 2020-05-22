@@ -36,7 +36,7 @@ Disp ""
 
 Now it’s time to do the intermediate step:
 
-**To Do: Add LATEX**
+<p>$$\dfrac { -b\pm \sqrt { { b }^{ 2 }-4ac } }{ 2a }$$</p>
 
 We will use Output instructions to display text and variable values to a specific place on the screen:
 
