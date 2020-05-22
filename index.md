@@ -1,2 +1,4 @@
-# Et3rnos' Blog
-{{site.posts[0].title}}
+## My Posts
+{% for post in site.posts %}
+### {{post.title}}
+{% endfor %}
