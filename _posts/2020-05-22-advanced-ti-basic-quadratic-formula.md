@@ -16,7 +16,7 @@ ax^2+bx+c=0
 
 First, we need to get \(a\), \(b\) and \(c\) values from user. To achieve this we will use some Input instructions preceded by a ClrHome one, that tells the processor to clear the screen.
 
-$$\{ - b \}$$
+$${ - b }$$
 
 ```
 ClrHome
