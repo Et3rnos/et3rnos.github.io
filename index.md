@@ -6,8 +6,8 @@
 {% for cat in site.category-list %}
 ## {{ cat | capitalize }} Posts
 <ul>
-  {% for page in site.pages %}
-    {% for pc in page.categories %}
+  {% for post in site.posts %}
+    {% for pc in post.categories %}
       {% if pc == cat %}
         <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endif %}
