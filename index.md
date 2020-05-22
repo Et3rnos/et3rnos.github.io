@@ -9,7 +9,7 @@
   {% for post in site.posts %}
     {% for pc in post.categories %}
       {% if pc == cat %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
   {% endfor %}
