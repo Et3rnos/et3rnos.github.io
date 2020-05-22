@@ -14,7 +14,7 @@ During this tutorial, I will teach you how you can do your own program to calcul
 ax^2+bx+c=0
 ```
 
-First, we need to get \(a\), \(b\) and \(c\) values from user. To achieve this we will use some Input instructions preceded by a ClrHome one, that tells the processor to clear the screen.
+First, we need to get <span>\\(a\\)</span>, \(b\) and \(c\) values from user. To achieve this we will use some Input instructions preceded by a ClrHome one, that tells the processor to clear the screen.
 
 <p>$${ - b }$$</p>
 
