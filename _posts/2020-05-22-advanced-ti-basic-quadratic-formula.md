@@ -21,7 +21,7 @@ Input "C=",C
 
 These “inputs” retrieve the values from the user and store them in the variables A,B and C.
 
-![Inputs](/images/quadform1.png)
+![Output](/images/quadform1.png)
 
 Then we will clear the screen once more and add some Disp “” instructions that will be discussed later.
 
@@ -50,7 +50,7 @@ Output(2,1,"----------------")
 Output(3,8,2A)
 ```
 
-![Inputs](/images/quadform2.png)
+![Output](/images/quadform2.png)
 
 And finally we check if the equation has solutions by checking if the following inequation is true:
 
@@ -73,7 +73,7 @@ Output(6,12," "
 
 The last Output instructions limit the solution digits presented.
 
-![Inputs](/images/quadform3.png)
+![Output](/images/quadform3.png)
 
 To conclude, we should note that the previously used Disp “” instructions just tell the processor to print Done in a specific place in the screen.
 
