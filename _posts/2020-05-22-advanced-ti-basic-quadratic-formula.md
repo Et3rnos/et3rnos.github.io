@@ -54,7 +54,7 @@ Output(3,8,2A)
 
 And finally we check if the equation has solutions by checking if the following inequation is true:
 
-**To Do: Add LATEX**
+<p>$${ b }^{ 2 }-4ac\ge 0$$</p>
 
 If it is true, then we can print the solutions. However, if it has no solutions, we should print an error message like “NO ZEROS FOUND”. The Then and End instructions mark the beggining and the end of a block, which means that if the condition is true, all the instructions before the Else will be executed and if it is false it will only execute the instruction between Else and End.
 
