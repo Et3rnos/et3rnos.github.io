@@ -4,6 +4,8 @@ tags: ti-basic ti-84 quadratic
 category: programming
 ---
 
+![Inputs](/images/quadform0.png)
+
 One of the most useful programs you can have in your TI calculator is the Quadratic Formula.
 
 During this tutorial, I will teach you how you can do your own program to calculate the solutions of any equations of the following type:
