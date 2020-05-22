@@ -1,2 +1,2 @@
 # Et3rnos' Blog
-{{site.posts}}
+{{site.posts[0].title}}
