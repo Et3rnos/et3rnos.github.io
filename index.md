@@ -1,6 +1,8 @@
 ## Recent Posts
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<ul>
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+</ul>
 {% endfor %}
 
 {% for cat in site.category-list %}
