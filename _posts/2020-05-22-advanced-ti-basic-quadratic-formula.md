@@ -1,6 +1,8 @@
 ---
 title: Advanced TI-BASIC Quadratic Formula
 author: Et3rnos
+tags: ti-basic ti-84 quadratic
+category: programming
 ---
 
 One of the most useful programs you can have in your TI calculator is the Quadratic Formula.
