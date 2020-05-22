@@ -1,6 +1,6 @@
 ---
 title: Advanced TI-BASIC Quadratic Formula
-tags: ti-basic
+tags: ti-basic quadratic
 category: programming
 ---
 
