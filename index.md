@@ -4,7 +4,7 @@
 {% endfor %}
 
 {% for cat in site.category-list %}
-## {{ cat }}
+## {{ cat | capitalize }} Posts
 <ul>
   {% for page in site.pages %}
     {% for pc in page.categories %}
