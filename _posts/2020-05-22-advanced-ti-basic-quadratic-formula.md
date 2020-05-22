@@ -12,7 +12,7 @@ During this tutorial, I will teach you how you can do your own program to calcul
 ax^2+bx+c=0
 ```
 
-First, we need to get **a**, **b** and **c** values from user. To achieve this we will use some Input instructions preceded by a ClrHome one, that tells the processor to clear the screen.
+First, we need to get \(a\), \(b\) and \(c\) values from user. To achieve this we will use some Input instructions preceded by a ClrHome one, that tells the processor to clear the screen.
 
 ```
 ClrHome
@@ -110,3 +110,6 @@ End
 Output(5,12," "
 Output(6,12," "
 ```
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
