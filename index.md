@@ -1,6 +1,6 @@
 ## Recent Posts
 {% for post in site.posts %}
-[{{post.title}}]({{post.url}})
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 {% for cat in site.category-list %}
