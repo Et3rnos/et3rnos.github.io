@@ -6,7 +6,7 @@ title: Main Page
 <ul>
 {%- assign first_posts = site.posts | slice:0, 3 -%}
 {%- for post in first_posts -%}
-	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {%- endfor -%}
 </ul>
 
