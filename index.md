@@ -1,5 +1,6 @@
 ## Recent Posts
-{% for post in (site.posts | slice: 0, 2) %}
+{% assign first_posts = site.posts | slice:0, 3 %}
+{% for post in first_posts %}
 <ul>
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
