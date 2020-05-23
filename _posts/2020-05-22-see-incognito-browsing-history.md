@@ -1,7 +1,7 @@
 ---
 title: See Incognito Browsing History
 category: hacking
-tags: history incognito
+tags: none
 ---
 
 In contrast to what most people think, seeing the history from an incognito session is not impossible. Actually, it is quite easy if you do it the right way. In this post I will show you some methods to achieve this goal, some that require software and one that you can do right now.
