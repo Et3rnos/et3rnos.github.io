@@ -1,3 +1,7 @@
+---
+title: Main Page
+---
+
 ## Recent Posts
 <ul>
 {% assign first_posts = site.posts | slice:0, 3 %}
