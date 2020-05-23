@@ -1,5 +1,5 @@
 ---
-title: Advanced TI-BASIC Quadratic Formula
+title: Satisfactory TI-84 Plus Programs
 tags: ti-basic
 category: programming
 ---
