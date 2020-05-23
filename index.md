@@ -1,5 +1,5 @@
 ## Recent Posts
-{% for post in site.posts %}
+{% for post in (site.posts | slice: 0, 2) %}
 <ul>
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
