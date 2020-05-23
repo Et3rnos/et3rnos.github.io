@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 permalink: none
 title: Et3rnos' Blog
 description: A place where you can learn programming and hacking
+
+plugins:
+  - jekyll-sitemap
