@@ -9,7 +9,6 @@ title: Main Page
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {%- endfor -%}
 </ul>
-
 ## Programming Posts
 <ul>
 {%- for post in site.posts -%}
@@ -38,7 +37,6 @@ title: Main Page
     {%- endfor -%}
   {%- endfor -%}
 </ul>
-
 ## Hacking Posts
 <ul>
   {%- for post in site.posts -%}
