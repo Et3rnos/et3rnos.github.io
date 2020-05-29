@@ -20,7 +20,7 @@ You need to dig harder into ducks0ci3ty.ga!!!
 
 ## \[4\] Programming Challenge
 
-1 b64... 2 b64... 3 b64... 50 b64
+One b64... two b64... three b64... thirty b64
 
 [Download File](/images/ctfteamtestprogramming.txt)
 
