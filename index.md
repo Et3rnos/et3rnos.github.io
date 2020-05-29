@@ -65,3 +65,13 @@ title: Main Page
     {%- endfor -%}
   {%- endfor -%}
 </ul>
+## Other Posts
+<ul>
+  {%- for post in site.posts -%}
+    {%- for pc in post.categories -%}
+      {%- if pc == "none" -%}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+</ul>
