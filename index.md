@@ -69,7 +69,7 @@ title: Main Page
 <ul>
   {%- for post in site.posts -%}
     {%- for pc in post.categories -%}
-      {%- if pc == "none" -%}
+      {%- if pc == "other" -%}
 		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {%- endif -%}
     {%- endfor -%}

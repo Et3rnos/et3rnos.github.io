@@ -1,6 +1,6 @@
 ---
 title: Ducks0ci3ty CTF Team Test
-category: none
+category: other
 tags: none
 ---
 
