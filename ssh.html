@@ -48,11 +48,16 @@ function decrypt(){
 	document.getElementById("endpoint").innerHTML = endpoint;
 }
 function copy() {
-  var copyText = document.getElementById("endpoint");
-  copyText.select();
-  copyText.setSelectionRange(0, 99999);
+  Clipboard_CopyTo(document.getElementById("endpoint").innerHTML);
+}
+function Clipboard_CopyTo(value) {
+  var tempInput = document.createElement("input");
+  tempInput.value = value;
+  document.body.appendChild(tempInput);
+  tempInput.select();
   document.execCommand("copy");
-} 
+  document.body.removeChild(tempInput);
+}
 </script>
 </body>
 </html>
