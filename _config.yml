@@ -11,24 +11,7 @@ email: et3rnos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Discord Bot Developer - CTF Player
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-# Social media profiles - feel free to add more here
-#twitter_username: SBootstrap
-github_username:  Et3rnos
-ctftime_url: https://ctftime.org/user/77163
-#facebook_username: StartBootstrap
-#instagram_username: beyonce
-#stackoverflow_url: https://
-#googleplus_username: BobMarley
-#skype_username: echo123
-#linkedin_url: https://
-
-# Address information
-#address_street: 3034 Melrose Place
-#address_city: Beverly Hills
-#address_state: CA
-#address_zip: 90201
+url: "http://et3rnos.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
