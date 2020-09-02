@@ -1,7 +1,34 @@
-theme: jekyll-theme-hacker
-permalink: none
-title: Et3rnos' Blog
-description: A place where you can learn programming and hacking
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-plugins:
-  - jekyll-sitemap
+# Site settings
+title: Et3rnos
+email: et3rnos@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Web Developer - Discord Bot Developer - CTF Player
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Social media profiles - feel free to add more here
+#twitter_username: SBootstrap
+github_username:  Et3rnos
+ctftime_url: https://ctftime.org/user/77163
+#facebook_username: StartBootstrap
+#instagram_username: beyonce
+#stackoverflow_url: https://
+#googleplus_username: BobMarley
+#skype_username: echo123
+#linkedin_url: https://
+
+# Address information
+#address_street: 3034 Melrose Place
+#address_city: Beverly Hills
+#address_state: CA
+#address_zip: 90201
+
+# Build settings
+markdown: kramdown
