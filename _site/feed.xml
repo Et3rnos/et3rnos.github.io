@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Et3rnos</title>
+    <description>Web Developer - Discord Bot Developer - CTF Player
+</description>
+    <link>http://0.0.0.0:4000//</link>
+    <atom:link href="http://0.0.0.0:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Sep 2020 09:30:22 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2020 09:30:22 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.0</generator>
+    
+      <item>
+        <title>Daily CTF Challenges</title>
+        <description>&lt;p&gt;Daily CTF Challenges is a project designed to make the process of developing and sharing custom CTF challenges on Discord Servers much easier.&lt;/p&gt;
+&lt;p&gt;Its main features go from an anonymous challenge submission webpage to a simple yet powerful administrator dashboard where you can approve or delete submitted challenges.&lt;/p&gt;
+
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Challenge Submission&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/challengesubmission.png&quot;&gt;
+
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Admin Panel&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/adminpanel.png&quot;&gt;
+
+&lt;p&gt;The main bot is highly customizable, which means that you can, for example, specify the time when challenges are published and much other things.
+There is also a realtime leaderboard where top players get custom roles to estimulate players competitivety.&lt;/p&gt;
+
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Leaderboard&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/leaderboard.png&quot;&gt;
+
+&lt;h3&gt;Other Screenshots&lt;/h3&gt;
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Help&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/help.png&quot;&gt;
+
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Challenges Release&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/challengesrelease.png&quot;&gt;
+
+&lt;h6 class=&quot;text-uppercase&quot;&gt;Attachment Url&lt;/h6&gt;
+&lt;img class=&quot;mw-100 mb-4&quot; src=&quot;/img/dailyctfchallenges/attachurl.png&quot;&gt;
+
+&lt;blockquote class=&quot;p-3&quot;&gt;I rate the bot 10/10. I love how reliable the bot is now and how little time @Et3rnos took to code it. The code he wrote was elegant and professionally written.&lt;/blockquote&gt;
+
+&lt;a href=&quot;https://discord.gg/G88kB2z&quot; target=&quot;_blank&quot; class=&quot;btn btn-lg btn-outline btn-outline-dark&quot;&gt;&lt;i class=&quot;fab fa-discord&quot;&gt;&lt;/i&gt; See this bot in action&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;</description>
+        <pubDate>Tue, 01 Sep 2020 01:00:00 +0100</pubDate>
+        <link>http://0.0.0.0:4000//discord%20bot/2020/09/01/daily-ctf-challenges.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000//discord%20bot/2020/09/01/daily-ctf-challenges.html</guid>
+        
+        
+        <category>Discord Bot</category>
+        
+      </item>
+    
+  </channel>
+</rss>
