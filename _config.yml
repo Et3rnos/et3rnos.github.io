@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Discord Bot Developer - CTF Player
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://et3rnos.github.io" # the base hostname & protocol for your site
+flag: "DS{4_1337_f14g_f0r_y0ur_us3}"
 
 # Build settings
 markdown: kramdown
